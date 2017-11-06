@@ -13,6 +13,7 @@ import java.util.List;
 
 import javax.swing.JComponent;
 
+@SuppressWarnings("serial")
 public class Board extends JComponent
 {
    // dimension of checkerboard square (25% bigger than checker)

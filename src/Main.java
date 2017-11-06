@@ -2,6 +2,7 @@ import java.awt.EventQueue;
 
 import javax.swing.JFrame;
 
+@SuppressWarnings("serial")
 public class Main extends JFrame{
 	
 	public Main(String title) {
